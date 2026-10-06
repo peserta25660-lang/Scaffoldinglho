@@ -1,0 +1,6 @@
+{
+  "name": "Web Scaffolding LHO 5T",
+  "description": "Media pembelajaran digital interaktif Bahasa Indonesia Kelas X SMA/SMK untuk menyusun Teks Laporan Hasil Observasi melalui alur 5T.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  header, footer, .print\:hidden {
+    display: none !important;
+  }
+
+  #printable-lho-sheet {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+  }
+}
